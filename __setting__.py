@@ -17,3 +17,16 @@ MESSAGEINFO= '''
         En cas de problème, n'hésitez pas à contacter mon développeur. Profitez de votre expérience de punch avec Punch Bot!
         '''
 
+#Englis version
+# Greetings, user! I am Punch Bot, your loyal punching companion on Discord. Here's how you can use my features:
+
+#**React with 🥊 to Punch In and Punch Out**
+#**!punch in**: Use this command to mark your entry. It records the time you started "punching".
+
+#**!punch out**: Use this command to mark your exit. I'll automatically calculate the duration you've been "punching".
+
+#**!stats**: Check your punch statistics to see the total time you've spent "punching".
+
+#If you encounter any issues, feel free to contact my developer. Enjoy your punching experience with Punch Bot!
+
+
