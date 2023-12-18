@@ -1,7 +1,7 @@
 
 
-TOKKENSERVER = 'MTE4MDY5OTg3MDM1MzQ0MDg0MQ.GTYWvy.8P5KLyGKbQ_7o18S45o1c4ETx9-Cn8zJIAJUm0'
-TOKKENTEST = 'MTE4MDg4NDM3MDM2NjY2NDgzNQ.GEEC_o.-1ww-d1nTj-ymT2JXIKLQ41t_gQb-A17BoRo0c'
+TOKKENSERVER = 'Your_Token'
+TOKKENTEST = 'Other_Token_for_Dev'
 
 MESSAGEINFO= '''
         Salutations, utilisateur! Je suis Punch Bot, votre fidèle compagnon de punch sur Discord. Voici comment vous pouvez utiliser mes fonctionnalités:
