@@ -1,19 +1,2 @@
 #dont need to creat this file
 
-{
-  "ID-USER": {
-    "name": "",
-    "id": "",
-    "punch": {
-      "1": [
-        ""
-      ],
-      "2": [
-        "",
-        ""
-      ]
-    },
-    "cumulative": "",
-    "punch_in_time": ""
-  }
-}
